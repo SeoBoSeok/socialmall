@@ -362,7 +362,7 @@
 .smt_20 {position:relative;overflow-y:hidden;margin:0 -5px}
 .smt_20 .sct_ul {width:100%;position:absolute;top:0;left:0;margin:0;padding:0;list-style:none}
 .smt_20 .sct_ul_first {display:block;top:0}
-.smt_20 .sct_li {position:relative;float:left;width:25%;margin-right:15px;margin-bottom:15px;text-align:left}
+.smt_20 .sct_li {position:relative;float:left;width:24%;margin-right:15px;margin-bottom:15px;text-align:left}
 .smt_20 .sct_last {margin:0 0 15px !important}
 .smt_20 .sct_clear {clear:both}
 .smt_20 .sct_a {display:inline-block;position:relative;text-decoration:none}
