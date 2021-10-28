@@ -93,7 +93,7 @@ add_stylesheet('<link rel="stylesheet" href="'.G5_JS_URL.'/owlcarousel/owl.carou
   <div class="gnb_wrap">
     <ul id="gnb_1dul">
       <li class="">
-        <a href="/company.php" target="_self" class="gnb_1da">공주사회적경제네트워크</a>
+        <a href="/company.php" target="_self" class="gnb_1da">공주사회경제네트워크</a>
       </li>
       <li class="">
         <a href="/shop" target="_self" class="gnb_1da">STORE</a>
