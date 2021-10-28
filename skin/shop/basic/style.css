@@ -317,7 +317,7 @@
 
 /* 메인 상품 목록 스킨 10 */
 .smt_10 {margin:0 -5px}
-.smt_10 .sct_li {position:relative;float:left;width:25%;margin-right:15px;margin-bottom:15px;text-align:left}
+.smt_10 .sct_li {position:relative;float:left;width:24%;margin-right:15px;margin-bottom:15px;text-align:left}
 .smt_10 .sct_last {margin-right:0}
 .smt_10 .sct_clear {clear:both}
 .smt_10 .sct_a {text-decoration:none}
