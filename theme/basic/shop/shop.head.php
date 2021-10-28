@@ -93,14 +93,14 @@ add_stylesheet('<link rel="stylesheet" href="'.G5_JS_URL.'/owlcarousel/owl.carou
   <div class="gnb_wrap">
     <ul id="gnb_1dul">
       <li class="">
-        <a href="/company.php" target="_self" class="gnb_1da">결초보은 조목조목 협동조합</a>
+        <a href="/company.php" target="_self" class="gnb_1da">공주사회적경제네트워크</a>
       </li>
       <li class="">
         <a href="/shop" target="_self" class="gnb_1da">STORE</a>
       </li>
-      <li class="">
+      <!-- <li class="">
         <a href="/general_market.php" target="_self" class="gnb_1da">보은종합시장</a>
-      </li>
+      </li> -->
       <li class="">
         <a href="/bbs/board.php?bo_table=notice" target="_self" class="gnb_1da">공지사항</a>
       </li>
