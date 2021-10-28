@@ -49,7 +49,7 @@ add_stylesheet('<link rel="stylesheet" href="'.G5_JS_URL.'/owlcarousel/owl.carou
 	</div>
     <div id="hd_wrapper">
         <div id="logo">
-        	<a href="<?php echo G5_SHOP_URL; ?>/"><img src="<?php echo G5_DATA_URL; ?>/common/logo_img" alt="<?php echo $config['cf_title']; ?>"></a>
+        	<a href="<?php echo G5_SHOP_URL; ?>/"><img src="<?php echo G5_IMG_URL; ?>/logo_top.png" alt="<?php echo $config['cf_title']; ?>"></a>
         </div>
 		
 		<div class="hd_sch_wr">
