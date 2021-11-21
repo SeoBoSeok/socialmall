@@ -10,7 +10,7 @@ if(! defined('_INDEX_')) define('_INDEX_', TRUE);
 
 include_once(G5_THEME_SHOP_PATH.'/shop.head.php');
 ?>
-<link rel="stylesheet" href="/css/main/style.css?ver=191202">
+
 <?php if($default['de_type1_list_use']) { ?>
 <!-- 히트상품 시작 { -->
 <!-- <section id="idx_hit" class="sct_wrap">
@@ -59,10 +59,7 @@ include_once(G5_THEME_SHOP_PATH.'/shop.head.php');
 <!-- 최신상품 시작 { -->
 <section class="sct_wrap">
     <header>
-        <div class="titArea prdArea_tit">
-            <h2 class="prdArea1-tit"><a href="<?php echo shop_type_url('3'); ?>">최신상품</a></h2>
-		    <h3 class="prdArea1-copy">공산성 최신상품을 소개합니다.</h3>
-	    </div>
+        <h2><a href="<?php echo shop_type_url('3'); ?>">최신상품</a></h2>
     </header>
     <?php
     $list = new item_list();

@@ -68,7 +68,8 @@ border:1px solid #558ab7 !important;
 #hd_wrapper {position:relative;margin:0 auto}
 #hd_wrapper:after {display:block;visibility:hidden;clear:both;content:""}
 
-#logo {float:left;padding:30px 0 0}
+#logo {float:left;padding-top:20px;max-width: 200px;}
+#logo img {width: 100%}
 .hd_sch_wr {padding:30px 0;width:445px;margin:auto}
 #hd_sch h3 {position:absolute;font-size:0;line-height:0;overflow:hidden}
 #hd_sch {border-radius:30px;overflow:hidden}
@@ -176,7 +177,7 @@ box-shadow:0 2px 5px rgba(0,0,0,0.2)}
 #side_pd .bx-prev {display:inline-block;width:20px;height:20px;text-indent:-9999em;background:url('../img/btn_prev.png') no-repeat}
 #side_pd .bx-next {display:inline-block;width:20px;height:20px;text-indent:-9999em;background:url('../img/btn_next.png') no-repeat}
 
-#container {position:relative;margin:0 auto;width:1180px;min-height:500px;height:auto !important}
+/* #container {position:relative;margin:0 auto;width:1180px;min-height:500px;height:auto !important} */
 #container:after {display:block;visibility:hidden;clear:both;content:""}
 #container .shop-content {position:relative;padding:1px 0}
 #container .is_index {}
