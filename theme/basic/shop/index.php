@@ -174,9 +174,14 @@ include_once(G5_THEME_SHOP_PATH.'/shop.head.php');
         </ul>
     </div>
 
-<section class="main_w_banner">
+<section class="main_w_banner lt_bn">
     <div class="background-section">
         <img src="/img/gongsansung-background.jpg" alt="공산성" srcset="">
+        <div class="bn_txt">
+            <div class="txt_wr-2">
+                                            <div class="bn_detail"> 단체소개</div>
+                    <a href="general_market.php" class="bn_view">바로가기</a>                </div>
+        </div>
     </div>
 </section>
 

@@ -83,7 +83,7 @@
 #scomm li a:hover {color:#be334a}
 
 /* 메인배너 */
-#main_bn {position:relative;margin:0 0 30px}
+#main_bn {position:relative;margin:0}
 #main_bn:after {display:block;visibility:hidden;clear:both;content:""}
 #main_bn .slide-wrap {padding:0;margin:0}
 #main_bn .slide-wrap img {max-width:100%;height:auto}
@@ -1218,7 +1218,7 @@ filter: none;
 
 .titArea {
     width: 100%;
-    padding: 40px 0 25px;
+    padding: 0 0 25px;
     text-align: center;
 }
 .titArea h2 {
