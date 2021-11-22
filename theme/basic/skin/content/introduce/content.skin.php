@@ -133,8 +133,8 @@ $(".sbn_slide").owlCarousel({
 
     <div class="sct_wrap">
       <h2>Store</h2>
-      <p>보은 대추나무 가공 협동조합</p>
-      <p>보은읍 삼산로 3길 12-1 고객쉼터 1층</p>
+      <p></p>
+      <p>공주 산성시장</p>
       <iframe class="main__map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3207.951760283421!2d127.71710251582093!3d36.48288119319578!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35651963eef678a3%3A0x652ba7c3e1d62ae8!2z7Lap7LKt67aB64-EIOuztOydgOq1sCDrs7TsnYDsnY0g7IK87IKw66GcM-q4uCAxMi0x!5e0!3m2!1sko!2skr!4v1606786431000!5m2!1sko!2skr" width="100%" height="600" frameborder="0" style="border:0; margin:30px 0 150px 0" allowfullscreen=""></iframe>
     </div>
 
