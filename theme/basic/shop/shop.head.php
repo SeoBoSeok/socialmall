@@ -282,6 +282,14 @@ jQuery(function ($){
                 $content_class[] = 'is_index';
             }
         ?>
+        <?php
+           if ($_SERVER["PHP_SELF"] == "/shop/orderform.php") {
+        ?>
+        <div id="container">
+        <div id="wrapper" class="<?php echo implode(' ', $wrapper_class); ?>">
+        <?php
+        }
+        ?>
         <!-- .shop-content 시작 { -->
         <div class="<?php echo implode(' ', $content_class); ?>">
             <?php if ((!$bo_table || $w == 's' ) && !defined('_INDEX_')) { ?><div id="wrapper_title"><?php echo $g5['title'] ?></div><?php } ?>
