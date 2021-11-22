@@ -1234,3 +1234,5 @@ filter: none;
     font-weight: 400;
     color: #999;
 }
+
+#container {width: 1180px; margin: 0 auto;}

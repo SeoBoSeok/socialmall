@@ -31,6 +31,7 @@ if($is_item_view){
 add_stylesheet('<link rel="stylesheet" href="'.G5_SHOP_CSS_URL.'/style.css">', 0);
 add_javascript('<script src="'.G5_JS_URL.'/shop.category.navigation.js"></script>', 10);
 ?>
+
 <script>
 jQuery(function($){
     $(document).ready(function() {

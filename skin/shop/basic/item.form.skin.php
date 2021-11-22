@@ -352,16 +352,16 @@ add_stylesheet('<link rel="stylesheet" href="'.G5_SHOP_CSS_URL.'/style.css">', 0
 	    <!-- } 상품 요약정보 및 구매 끝 -->
 	</div>
 	<!-- 다른 상품 보기 시작 { -->
-    <div id="sit_siblings">
+    <!-- <div id="sit_siblings"> -->
 	    <?php
-	    if ($prev_href || $next_href) {
-	        echo $prev_href.$prev_title.$prev_href2;
-	        echo $next_href.$next_title.$next_href2;
-	    } else {
-	        echo '<span class="sound_only">이 분류에 등록된 다른 상품이 없습니다.</span>';
-	    }
+	    // if ($prev_href || $next_href) {
+	    //     echo $prev_href.$prev_title.$prev_href2;
+	    //     echo $next_href.$next_title.$next_href2;
+	    // } else {
+	    //     echo '<span class="sound_only">이 분류에 등록된 다른 상품이 없습니다.</span>';
+	    // }
 	    ?>
-	</div>   
+	<!-- </div>    -->
     <!-- } 다른 상품 보기 끝 -->
 	</form>
 </div>
