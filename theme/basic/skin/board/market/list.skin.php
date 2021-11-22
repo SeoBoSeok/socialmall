@@ -50,79 +50,25 @@ add_stylesheet('<link rel="stylesheet" href="'.$board_skin_url.'/style.css">', 0
 
     
     <ul id="gall_ul">
-                <li class="gall_li ">
+        <li class="gall_li ">
             <div style="overflow: hidden;">
             <a href="http://www.boeunmarket.com/bbs/board.php?bo_table=market&amp;wr_id=47" class="gall_img">
-            <img src="http://www.boeunmarket.com/data/editor/2012/thumb-9bec6ca85595e03f2e5b122c0f46d6eb_1608612189_088_361x400.png" alt="" width="361" height="400" title="">            </a>
-        </div>
-                    </li>
-                <li class="gall_li ">
+            <img src="/img/market-1.png" alt="" width="361" height="400" title="">            </a>
+            </div>
+        </li>
+        <li class="gall_li ">
             <div style="overflow: hidden;">
-            <a href="http://www.boeunmarket.com/bbs/board.php?bo_table=market&amp;wr_id=46" class="gall_img">
-            <img src="http://www.boeunmarket.com/data/editor/2012/thumb-9bec6ca85595e03f2e5b122c0f46d6eb_1608612170_4416_361x400.png" alt="" width="361" height="400">            </a>
-        </div>
-                    </li>
-                <li class="gall_li ">
+            <a href="http://www.boeunmarket.com/bbs/board.php?bo_table=market&amp;wr_id=47" class="gall_img">
+            <img src="/img/market-2.png" alt="" width="361" height="400" title="">            </a>
+            </div>
+        </li>
+        <li class="gall_li ">
             <div style="overflow: hidden;">
-            <a href="http://www.boeunmarket.com/bbs/board.php?bo_table=market&amp;wr_id=45" class="gall_img">
-            <img src="http://www.boeunmarket.com/data/editor/2012/thumb-9bec6ca85595e03f2e5b122c0f46d6eb_1608611889_2672_361x400.png" alt="" width="361" height="400">            </a>
-        </div>
-                    </li>
-                <li class="gall_li ">
-            <div style="overflow: hidden;">
-            <a href="http://www.boeunmarket.com/bbs/board.php?bo_table=market&amp;wr_id=44" class="gall_img">
-            <img src="http://www.boeunmarket.com/data/editor/2012/thumb-9bec6ca85595e03f2e5b122c0f46d6eb_1608611873_3847_361x400.png" alt="" width="361" height="400">            </a>
-        </div>
-                    </li>
-                <li class="gall_li ">
-            <div style="overflow: hidden;">
-            <a href="http://www.boeunmarket.com/bbs/board.php?bo_table=market&amp;wr_id=43" class="gall_img">
-            <img src="http://www.boeunmarket.com/data/editor/2012/thumb-9bec6ca85595e03f2e5b122c0f46d6eb_1608611855_4699_361x400.png" alt="" width="361" height="400">            </a>
-        </div>
-                    </li>
-                <li class="gall_li ">
-            <div style="overflow: hidden;">
-            <a href="http://www.boeunmarket.com/bbs/board.php?bo_table=market&amp;wr_id=42" class="gall_img">
-            <img src="http://www.boeunmarket.com/data/editor/2012/thumb-9bec6ca85595e03f2e5b122c0f46d6eb_1608611840_4285_361x400.png" alt="" width="361" height="400">            </a>
-        </div>
-                    </li>
-                <li class="gall_li ">
-            <div style="overflow: hidden;">
-            <a href="http://www.boeunmarket.com/bbs/board.php?bo_table=market&amp;wr_id=41" class="gall_img">
-            <img src="http://www.boeunmarket.com/data/editor/2012/thumb-9bec6ca85595e03f2e5b122c0f46d6eb_1608611823_5311_361x400.png" alt="" width="361" height="400">            </a>
-        </div>
-                    </li>
-                <li class="gall_li ">
-            <div style="overflow: hidden;">
-            <a href="http://www.boeunmarket.com/bbs/board.php?bo_table=market&amp;wr_id=40" class="gall_img">
-            <img src="http://www.boeunmarket.com/data/editor/2012/thumb-9bec6ca85595e03f2e5b122c0f46d6eb_1608611807_6338_361x400.png" alt="" width="361" height="400">            </a>
-        </div>
-                    </li>
-                <li class="gall_li ">
-            <div style="overflow: hidden;">
-            <a href="http://www.boeunmarket.com/bbs/board.php?bo_table=market&amp;wr_id=39" class="gall_img">
-            <img src="http://www.boeunmarket.com/data/editor/2012/thumb-9bec6ca85595e03f2e5b122c0f46d6eb_1608611788_108_361x400.png" alt="" width="361" height="400">            </a>
-        </div>
-                    </li>
-                <li class="gall_li ">
-            <div style="overflow: hidden;">
-            <a href="http://www.boeunmarket.com/bbs/board.php?bo_table=market&amp;wr_id=38" class="gall_img">
-            <img src="http://www.boeunmarket.com/data/editor/2012/thumb-9bec6ca85595e03f2e5b122c0f46d6eb_1608611740_902_361x400.png" alt="" width="361" height="400">            </a>
-        </div>
-                    </li>
-                <li class="gall_li ">
-            <div style="overflow: hidden;">
-            <a href="http://www.boeunmarket.com/bbs/board.php?bo_table=market&amp;wr_id=37" class="gall_img">
-            <img src="http://www.boeunmarket.com/data/editor/2012/thumb-9bec6ca85595e03f2e5b122c0f46d6eb_1608611708_738_361x400.png" alt="" width="361" height="400">            </a>
-        </div>
-                    </li>
-                <li class="gall_li ">
-            <div style="overflow: hidden;">
-            <a href="http://www.boeunmarket.com/bbs/board.php?bo_table=market&amp;wr_id=36" class="gall_img">
-            <img src="http://www.boeunmarket.com/data/editor/2012/thumb-9bec6ca85595e03f2e5b122c0f46d6eb_1608611474_0399_361x400.png" alt="" width="361" height="400">            </a>
-        </div>
-                    </li>
-                    </ul>
+            <a href="http://www.boeunmarket.com/bbs/board.php?bo_table=market&amp;wr_id=47" class="gall_img">
+            <img src="/img/market-3.png" alt="" width="361" height="400" title="">            </a>
+            </div>
+        </li>
+        </ul>
 
         <div class="bo_fx">
         <ul class="btn_bo_adm">
