@@ -15,9 +15,11 @@ add_stylesheet('<link rel="stylesheet" href="'.$board_skin_url.'/style.css">', 0
       </ul>
   </div>
   <div id="bx_pager" class="bx_pager">
-      <ul><li> <a href="/general_market.php" class="">보은종합시장 소개</a></li>
-          <li> <a href="/bbs/board.php?bo_table=market_store" class="active">시장점포</a></li>
-          <li> <a href="/bbs/board.php?bo_table=market_news" class="">시장소식</a></li>
+      <ul>
+          <!-- <li> <a href="/general_market.php" class="">보은종합시장 소개</a></li> -->
+          <li> <a href="/bbs/board.php?bo_table=market" class="active">상점소개</a></li>
+          <li> <a href="/bbs/board.php?bo_table=category" class="">카테고리</a></li>
+          <!-- <li> <a href="/bbs/board.php?bo_table=market_news" class="">시장소식</a></li> -->
       </ul>
   </div>
 </div>
@@ -32,7 +34,7 @@ add_stylesheet('<link rel="stylesheet" href="'.$board_skin_url.'/style.css">', 0
     </ul>
 </nav>
 
-<div class="bbs_title">보은종합시장 &nbsp; &gt; &nbsp; 시장 점포 (45)</div>
+<div class="bbs_title"></div>
     <form name="fboardlist" id="fboardlist" action="http://www.boeunmarket.com/bbs/board_list_update.php" onsubmit="return fboardlist_submit(this);" method="post">
     <input type="hidden" name="bo_table" value="market">
     <input type="hidden" name="sfl" value="">

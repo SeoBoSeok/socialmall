@@ -231,7 +231,7 @@ jQuery(function ($){
     }
 ?>
 <!-- 전체 콘텐츠 시작 { -->
-<div id="wrapper" class="<?php echo implode(' ', $wrapper_class); ?>">
+<!-- <div id="wrapper" class="<?php //echo implode(' ', $wrapper_class); ?>"> -->
 
     <!-- 메인이미지 시작 { -->
     <?php
@@ -240,7 +240,7 @@ jQuery(function ($){
     <!-- } 메인이미지 끝 -->
     
     <!-- #container 시작 { -->
-    <div id="container">
+    <!-- <div id="container"> -->
 
         <?php if(false) { ?>
         <div id="aside">
