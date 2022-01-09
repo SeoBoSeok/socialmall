@@ -7,7 +7,10 @@ add_stylesheet('<link rel="stylesheet" href="'.$board_skin_url.'/style.css">', 0
 ?>
 
 <script src="<?php echo G5_JS_URL; ?>/viewimageresize.js"></script>
-
+<style>
+    #container {margin: 50px auto;}
+</style>
+<div id="container">
 <!-- 게시물 읽기 시작 { -->
 
 <article id="bo_v" style="width:<?php echo $width; ?>">
@@ -298,3 +301,4 @@ function excute_good(href, $el, $tx)
 }
 </script>
 <!-- } 게시글 읽기 끝 -->
+</div>
