@@ -104,6 +104,55 @@ include_once(G5_THEME_MSHOP_PATH.'/shop.head.php');
     </div>
     <?php } ?>
 
+    <div id="idx_rec">
+        <h2>Featured Collection</h2>
+        <ul class="sct smt_201">
+          <li class="sct_li">
+            <div class="li_wr">
+              <div class="sct_img">
+                <img src="/img/featured-1.jpg">
+                <span class="btn_b12"><a href="/shop/list.php?ca_id=30">특산물</a></span>
+              </div>
+            </div>
+          </li>
+          <li class="sct_li">
+            <div class="li_wr">
+              <div class="sct_img">
+                <img src="/img/featured-2.jpg">
+                <span class="btn_b12"><a href="javascript:void(0);">체험</a></span>
+              </div>
+            </div>
+          </li>
+          <li class="sct_li">
+            <div class="li_wr">
+              <div class="sct_img">
+                <img src="/img/featured-3.jpg">
+                <span class="btn_b12"><a href="javascript:void(0);">교육</a></span>
+              </div>
+            </div>
+          </li>
+          <li class="sct_li">
+            <div class="li_wr">
+              <div class="sct_img">
+                <img src="/img/featured-4.jpg">
+                <span class="btn_b12"><a href="/shop/list.php?ca_id=10">기념품</a></span>
+              </div>
+            </div>
+          </li>
+        </ul>
+    </div>
+
+    <section class="main_w_banner lt_bn">
+        <div class="background-section">
+            <img src="/img/gongsansung-background.jpg" alt="공산성" srcset="">
+            <div class="bn_txt">
+                <div class="txt_wr-2">
+                                                <div class="bn_detail"> 단체소개</div>
+                        <a href="general_market.php" class="bn_view">바로가기</a>                </div>
+            </div>
+        </div>
+    </section>
+
     <?php include_once(G5_MSHOP_SKIN_PATH.'/main.event.skin.php'); // 이벤트 ?>
 
     <!-- 커뮤니티 최신글 시작 { -->
