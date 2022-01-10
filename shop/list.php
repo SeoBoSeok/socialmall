@@ -72,6 +72,8 @@ var itemlist_ca_id = "<?php echo $ca_id; ?>";
 </script>
 <script src="<?php echo G5_JS_URL; ?>/shop.list.js"></script>
 
+<div id="container">
+
 <!-- 상품 목록 시작 { -->
 <div id="sct">
 
@@ -159,6 +161,7 @@ var itemlist_ca_id = "<?php echo $ca_id; ?>";
 ?>
 </div>
 <!-- } 상품 목록 끝 -->
+</div>
 
 <?php
 if ($ca['ca_include_tail'] && is_include_path_check($ca['ca_include_tail']))
