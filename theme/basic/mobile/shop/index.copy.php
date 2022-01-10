@@ -68,6 +68,42 @@ include_once(G5_THEME_MSHOP_PATH.'/shop.head.php');
     </div>
     <?php } ?>
 
+    <?php if($default['de_mobile_type4_list_use']) { ?>
+    <div class="sct_wrap">
+        <h2><a href="<?php echo shop_type_url('4'); ?>">인기상품</a></h2>
+        <?php
+        $list = new item_list();
+        $list->set_mobile(true);
+        $list->set_type(4);
+        $list->set_view('it_id', false);
+        $list->set_view('it_name', true);
+        $list->set_view('it_cust_price', false);
+        $list->set_view('it_price', true);
+        $list->set_view('it_icon', false);
+        $list->set_view('sns', false);
+        echo $list->run();
+        ?>
+    </div>
+    <?php } ?>
+
+    <?php if($default['de_mobile_type5_list_use']) { ?>
+    <div class="sct_wrap">
+        <h2><a href="<?php echo shop_type_url('5'); ?>">할인상품</a></h2>
+        <?php
+        $list = new item_list();
+        $list->set_mobile(true);
+        $list->set_type(5);
+        $list->set_view('it_id', false);
+        $list->set_view('it_name', true);
+        $list->set_view('it_cust_price', false);
+        $list->set_view('it_price', true);
+        $list->set_view('it_icon', false);
+        $list->set_view('sns', false);
+        echo $list->run();
+        ?>
+    </div>
+    <?php } ?>
+
     <div id="idx_rec">
         <h2>Featured Collection</h2>
         <ul class="sct smt_201">
