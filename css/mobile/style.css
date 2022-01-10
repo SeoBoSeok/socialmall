@@ -57,8 +57,8 @@ border: 1px solid #558ab7 !important;
 .hd_pops_footer button {margin-right:5px;padding:5px 10px;border:0;background:#393939;color:#fff}
 
 /* 상단 레이아웃 */
-#hd {position:relative;margin:0 0 ;padding: 0;text-align:center;background:#efefef}
-#hd h1 {position:absolute;font-size:0;text-indent:-9999em;line-height:0;overflow:hidden}
+/* #hd {position:relative;margin:0 0 ;padding: 0;text-align:center;background:#efefef} */
+/* #hd h1 {position:absolute;font-size:0;text-indent:-9999em;line-height:0;overflow:hidden} */
 
 #hd_tnb{border-bottom:1px solid #eee;border-top:2px solid #000;position:relative}
 #hd_tnb:after {display:block;visibility:hidden;clear:both;content:""}
