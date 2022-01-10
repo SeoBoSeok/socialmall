@@ -1163,4 +1163,7 @@ box-shadow:0 0 8px rgba(65,98,255,0.8)}
     .lt_bn .txt_wr-2 {
         margin: auto;
     }
+    #idx_rec {
+        padding: 60px 0 30px;
+    }
   }  
