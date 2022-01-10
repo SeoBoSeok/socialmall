@@ -143,7 +143,7 @@ include_once(G5_THEME_SHOP_PATH.'/shop.head.php');
             <div class="li_wr">
               <div class="sct_img">
                 <img src="/img/featured-1.jpg">
-                <span class="btn_b12"><a href="/shop/list.php?ca_id=30">특산물</a></span>
+                <span class="btn_b12"><a href="/shop/list.php?ca_id=20">특산물</a></span>
               </div>
             </div>
           </li>
@@ -151,7 +151,7 @@ include_once(G5_THEME_SHOP_PATH.'/shop.head.php');
             <div class="li_wr">
               <div class="sct_img">
                 <img src="/img/featured-2.jpg">
-                <span class="btn_b12"><a href="javascript:void(0);">체험</a></span>
+                <span class="btn_b12"><a href="/shop/list.php?ca_id=30">체험</a></span>
               </div>
             </div>
           </li>
@@ -159,7 +159,7 @@ include_once(G5_THEME_SHOP_PATH.'/shop.head.php');
             <div class="li_wr">
               <div class="sct_img">
                 <img src="/img/featured-3.jpg">
-                <span class="btn_b12"><a href="javascript:void(0);">교육</a></span>
+                <span class="btn_b12"><a href="/shop/list.php?ca_id=10">교육</a></span>
               </div>
             </div>
           </li>
@@ -167,7 +167,7 @@ include_once(G5_THEME_SHOP_PATH.'/shop.head.php');
             <div class="li_wr">
               <div class="sct_img">
                 <img src="/img/featured-4.jpg">
-                <span class="btn_b12"><a href="/shop/list.php?ca_id=10">기념품</a></span>
+                <span class="btn_b12"><a href="/shop/list.php?ca_id=40">기념품</a></span>
               </div>
             </div>
           </li>
@@ -179,7 +179,7 @@ include_once(G5_THEME_SHOP_PATH.'/shop.head.php');
         <img src="/img/gongsansung-background.jpg" alt="공산성" srcset="">
         <div class="bn_txt">
             <div class="txt_wr-2">
-                                            <div class="bn_detail"> 단체소개</div>
+                    <div class="bn_detail"> 단체소개</div>
                     <a href="/bbs/content.php?co_id=introduce" class="bn_view">바로가기</a>                </div>
         </div>
     </div>
