@@ -180,7 +180,7 @@ include_once(G5_THEME_SHOP_PATH.'/shop.head.php');
         <div class="bn_txt">
             <div class="txt_wr-2">
                                             <div class="bn_detail"> 단체소개</div>
-                    <a href="general_market.php" class="bn_view">바로가기</a>                </div>
+                    <a href="/bbs/content.php?co_id=introduce" class="bn_view">바로가기</a>                </div>
         </div>
     </div>
 </section>
